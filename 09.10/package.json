@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cinco.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc cinco.ts && node cinco"
+  },
+  "author": "",
+  "license": "ISC"
+}
